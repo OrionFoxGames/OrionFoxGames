@@ -1,0 +1,9 @@
+body {
+    background-color: darkslategrey;
+    color: white;
+    display: grid;
+    height: 80vh;
+    place-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
