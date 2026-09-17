@@ -151,3 +151,27 @@ footer{
     flex-direction: column;
     align-items: center;
 }
+
+.game {
+    display: block;
+    padding: 10px;
+    background-color: #18233A;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+}
+
+.Exe {
+    width: 150px;
+    border-radius: 5px;
+}
+
+.titleExe {
+    margin: 0;
+    font-size: 20px;
+}
+
+.exe {
+    display: block;
+}
